@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 Some of my blockchain projects are available at [https://k-g-j.github.io/kate3.0/](https://k-g-j.github.io/kate3.0/)
+- 👨‍💻 Some of my blockchain projects are available [here](https://k-g-j.github.io/kate3.0/)
 
 - 💬 Ask me about **Solidity, Vyper, Golang,**
 
 - 📫 How to reach me **johnson.kat.g@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kategjohnson/](https://www.linkedin.com/in/kategjohnson/)
+- 📄 Know about my [experiences](https://www.linkedin.com/in/kategjohnson/)
 
 - ⚡ Fun fact **I am a huge LEGO collector!**
 
