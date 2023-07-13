@@ -5,7 +5,7 @@
 
 - 👨‍💻 Some of my blockchain projects are available [here](https://k-g-j.github.io/kate3.0/)
 
-- 💬 Ask me about **Solidity, Vyper, Golang, TypeScript **
+- 💬 Ask me about **Solidity, Vyper, Golang, TypeScript**
 
 - 📫 How to reach me **johnson.kat.g@gmail.com**
 
