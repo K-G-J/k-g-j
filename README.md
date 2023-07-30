@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kate J.</h1>
-<h3 align="center">I am a software engineer specializing in Python, algorithmic trading, and backend development.</h3>
+<h3 align="center">I am a software engineer specializing in Python and backend development.</h3>
 
 - 🌱 I’m currently learning **Golang**
 
