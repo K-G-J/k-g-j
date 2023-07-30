@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kate J.</h1>
-<h3 align="center">I am a software engineer specializing in blockchain and backend development.</h3>
+<h3 align="center">I am a software engineer specializing in Python, algorithmic trading, and backend development.</h3>
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 Some of my blockchain projects are available [here](https://k-g-j.github.io/kate3.0/)
+- 👨‍💻 Some of my projects are available [here](https://k-g-j.github.io/kate-johnson/)
 
-- 💬 Ask me about **Python, Solidity, Vyper, Golang, TypeScript**
+- 💬 Ask me about **Python, Golang, TypeScript, Solidity, Vyper**
 
 - 📫 How to reach me **johnson.kat.g@gmail.com**
 
