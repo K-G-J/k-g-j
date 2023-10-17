@@ -5,7 +5,7 @@
 
 - 👨‍💻 Some of my projects are available [here](https://k-g-j.github.io/kate-johnson/)
 
-- 💬 Ask me about **Python, Golang, TypeScript, Solidity, Vyper**
+- 💬 Ask me about **Python, TypeScript, Java, Golang, Solidity**
 
 - 📫 How to reach me **johnson.kat.g@gmail.com**
 
